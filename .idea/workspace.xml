@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f155d5c-f024-4d8e-af9f-749584905234" name="변경" comment="upload">
-      <change afterPath="$PROJECT_DIR$/2814.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4615.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw1220_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw19185.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw2814.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw4615.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19113.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw19003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw19003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw19113.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw1220.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw1220.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw19185.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw19185.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,9 @@
   "keyToString": {
     "Python.sw1220.executor": "Debug",
     "Python.sw1220_1.executor": "Debug",
+    "Python.sw19003.executor": "Run",
+    "Python.sw19113.executor": "Run",
+    "Python.sw19185.executor": "Run",
     "Python.sw20551.executor": "Run",
     "Python.sw20728.executor": "Run",
     "Python.sw20728_1.executor": "Run",
@@ -64,7 +65,7 @@
     "Python.sw2806.executor": "Run",
     "Python.sw2814.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20240515_0000",
+    "com.google.cloudcode.ide_session_index": "20240515_0001",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/choeseonghyeon/PycharmProjects/pythonAgorithm",
     "node.js.detected.package.eslint": "true",
@@ -81,30 +82,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sw2814">
-    <configuration name="sw1220" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonAgorithm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw1220.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sw19003">
     <configuration name="sw1220_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonAgorithm" />
       <option name="ENV_FILES" value="" />
@@ -128,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sw2805" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sw19003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonAgorithm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,8 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw2805.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw19003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sw2806" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sw19113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonAgorithm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,8 +141,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw2806.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw19113.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sw19185" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonAgorithm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw19185.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sw19003" />
+        <item itemvalue="Python.sw19113" />
+        <item itemvalue="Python.sw19185" />
         <item itemvalue="Python.sw2814" />
         <item itemvalue="Python.sw1220_1" />
-        <item itemvalue="Python.sw1220" />
-        <item itemvalue="Python.sw2805" />
-        <item itemvalue="Python.sw2806" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715606944992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upload">
+      <option name="closed" value="true" />
+      <created>1715708286547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715708286547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
