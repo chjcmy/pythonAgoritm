@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f155d5c-f024-4d8e-af9f-749584905234" name="변경" comment="18662 풀어야됨">
-      <change afterPath="$PROJECT_DIR$/1876.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9229.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw1876.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw9229.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw9229_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6f155d5c-f024-4d8e-af9f-749584905234" name="변경" comment="11315 풀어야됨" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -250,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715892332682</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11315 풀어야됨">
+      <option name="closed" value="true" />
+      <created>1715972516244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715972516244</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +271,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
     <MESSAGE value="18662 풀어야됨" />
-    <option name="LAST_COMMIT_MESSAGE" value="18662 풀어야됨" />
+    <MESSAGE value="11315 풀어야됨" />
+    <option name="LAST_COMMIT_MESSAGE" value="11315 풀어야됨" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonAgorithm$sw20551.coverage" NAME="sw20551 커버리지 결과" MODIFIED="1715499765311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
