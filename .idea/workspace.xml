@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f155d5c-f024-4d8e-af9f-749584905234" name="변경" comment="upload">
-      <change afterPath="$PROJECT_DIR$/19113.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw19003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw19003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw19113.py" afterDir="false" />
+    <list default="true" id="6f155d5c-f024-4d8e-af9f-749584905234" name="변경" comment="18662 풀어야됨">
+      <change afterPath="$PROJECT_DIR$/1876.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9229.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw1876.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw9229.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw9229_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw19185.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw19185.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
   "keyToString": {
     "Python.sw1220.executor": "Debug",
     "Python.sw1220_1.executor": "Debug",
+    "Python.sw1876.executor": "Run",
     "Python.sw19003.executor": "Run",
     "Python.sw19113.executor": "Run",
     "Python.sw19185.executor": "Run",
@@ -64,6 +65,8 @@
     "Python.sw2805.executor": "Run",
     "Python.sw2806.executor": "Run",
     "Python.sw2814.executor": "Debug",
+    "Python.sw9229.executor": "Run",
+    "Python.sw9229_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.google.cloudcode.ide_session_index": "20240515_0001",
     "git-widget-placeholder": "main",
@@ -82,8 +85,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sw19003">
-    <configuration name="sw1220_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sw9229_1">
+    <configuration name="sw1876" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonAgorithm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,8 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw1220_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw1876.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sw19185" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sw9229" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonAgorithm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw19185.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw9229.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sw2814" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sw9229_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonAgorithm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,8 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw2814.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw9229_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sw9229_1" />
+        <item itemvalue="Python.sw9229" />
+        <item itemvalue="Python.sw1876" />
         <item itemvalue="Python.sw19003" />
         <item itemvalue="Python.sw19113" />
-        <item itemvalue="Python.sw19185" />
-        <item itemvalue="Python.sw2814" />
-        <item itemvalue="Python.sw1220_1" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715708286547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="18662 풀어야됨">
+      <option name="closed" value="true" />
+      <created>1715892332682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715892332682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload" />
+    <MESSAGE value="18662 풀어야됨" />
+    <option name="LAST_COMMIT_MESSAGE" value="18662 풀어야됨" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonAgorithm$sw20551.coverage" NAME="sw20551 커버리지 결과" MODIFIED="1715499765311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
