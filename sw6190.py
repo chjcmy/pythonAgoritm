@@ -40,3 +40,4 @@ if __name__ == '__main__':
                     max_num = int(m_str)
 
         print("#{} {}".format(tc + 1, max_num))
+
